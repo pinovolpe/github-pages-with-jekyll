@@ -1,3 +1,3 @@
 # GitHub pages con Jekyll
 
-Vediamo cosa ne viene fuori...
+Vediamo cosa ne viene fuori.
