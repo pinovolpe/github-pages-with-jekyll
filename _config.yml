@@ -2,11 +2,7 @@ title: GitHub pages con Jekyll
 author: Pino Volpe
 email: pino.volpe@gmail.com
 theme: minima
-
 description: Pino Volpe: web designer, front-end web developer, WordPress developer
-
-# social links
+show_excerpts: true # set to false to remove excerpts on the homepage
 twitter_username: pinovolpe # DO NOT include the @ character, or else the build will fail!
 github_username:  pinovolpe # DO NOT include the @ character, or else the build will fail!
-
-show_excerpts: true # set to false to remove excerpts on the homepage
