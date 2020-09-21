@@ -1,6 +1,8 @@
 title: GitHub pages con Jekyll
 author: Pino Volpe
 email: pino.volpe@gmail.com
+theme: minima
+
 description: Pino Volpe: web designer, front-end web developer, WordPress developer
 
 # social links
