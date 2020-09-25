@@ -3,7 +3,7 @@ description: Pino Volpe - web designer, front-end web developer, WordPress devel
 author: Pino Volpe
 email: pino.volpe@gmail.com
 
-theme: jekyll-theme-cayman
+theme: minima
 
 twitter_username: pinovolpe # DO NOT include the @ character, or else the build will fail!
 github_username:  pinovolpe # DO NOT include the @ character, or else the build will fail!
