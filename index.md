@@ -1,5 +1,3 @@
 # GitHub pages con Jekyll
 
-Vediamo cosa ne viene fuori.
-
----
+Un post al giorno.
